@@ -85,7 +85,5 @@ trajetórias.
 
 ## Contexto académico
 
-Projeto apresentado no portefólio de **José Cunha**, desenvolvido para Fusão de
-Informação em Análise de Dados, em 2025. A autoria académica completa encontra-se
-no trabalho original. Trata-se de uma simulação educativa, não de software de
-navegação validado para um robô físico.
+Trabalho desenvolvido no âmbito da unidade curricular de Fusão de Informação em
+Análise de Dados, em 2025.

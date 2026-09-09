@@ -84,7 +84,5 @@ dead reckoning, simulation, noise modelling and trajectory evaluation.
 
 ## Academic context
 
-Project presented in **José Cunha's** portfolio and developed for Information
-Fusion in Data Analysis in 2025. Full academic authorship is recorded in the
-original work. This is an educational simulation, not navigation software
-validated for a physical robot.
+Work developed as part of the Information Fusion in Data Analysis course in
+2025.
